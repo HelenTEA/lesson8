@@ -25,7 +25,6 @@ def main():
         if hats[cat]:
             print(f"Cat #{cat}")
 
+
 if __name__ == "__main__":
     main()
-
-
